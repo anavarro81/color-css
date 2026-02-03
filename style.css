@@ -1,0 +1,67 @@
+    /* valores: teal, red, blue, orange, purple, olive, fuchsia y green. */
+
+
+    h1 {
+        color: teal;
+    }
+
+    p>strong {
+        color: red;
+
+    }
+
+    .destacado {
+        color: orange;
+    }
+
+    #subtitulo {
+        color: blue;
+    }
+
+    p>a {
+        color: red;
+    }
+
+    p>a>em {
+        color: blue;
+    }
+
+    span.especial {
+        color: purple;
+    }
+
+    caption {
+        color: blue
+    }
+
+    th.especial {
+        color: olive;
+    }
+
+    tr>td {
+        color: green;
+    }
+
+    [scope="row"] {
+        color: red;
+    }
+
+    tr>td>strong {
+        color: orange;
+    }
+
+    [scope="col"] {
+        color: red;
+    }
+
+    #adicional {
+        color: olive
+    }
+
+    #especial {
+        color: fuchsia;
+    }
+
+    #adicional p>a {
+        color: green;
+    }
